@@ -11,7 +11,8 @@ import SwiftUI
 struct WeMakeAfricaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            AppStorageBootcamp()
         }
     }
 }
